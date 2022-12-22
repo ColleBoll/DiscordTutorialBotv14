@@ -1,3 +1,7 @@
+## Discord.js Bot v14 by ColleBol
+
+![GitHub package.json version](https://img.shields.io/github/package-json/v/ColleBoll/DiscordTutorialBotv14)
+
 Hey gamers!
 
 Dit is de plek waar je de discord code kunt vinden van mijn discord.js v14 tutorial video's!
